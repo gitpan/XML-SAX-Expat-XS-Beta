@@ -1,0 +1,11 @@
+Changes
+Expat.xs
+MANIFEST
+MANIFEST.SKIP
+Makefile.PL
+README
+encoding.h
+lib/XML/SAX/Expat.pm
+t/00basic.t
+t/01create.t
+typemap

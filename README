@@ -1,0 +1,14 @@
+XML::SAX::Expat (XS version)
+============================
+
+This module is an XS only implementation of XML::SAX::Expat
+which currently uses XML::Parser.
+
+I'm uploading this now to get some feedback while Robin
+Berjon (the maintainer of XML::SAX::Expat) is AWOL.
+
+It's not entirely complete, but it should work for most
+people's uses.
+
+It is however an awful lot faster than the layer over XML::Parser.
+
